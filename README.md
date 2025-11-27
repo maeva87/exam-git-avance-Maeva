@@ -4,7 +4,7 @@
 
 Ce projet est un serveur web représentant une blibliothèque et qui s'appelle donc Library, le site permet d'afficher la liste des ivres avec 4 champs : ID, Title, Author, Year.
 
-Le site possède aussi un epage pour chaque livre, pour les afficher indiviuellement.
+Le site possède aussi une page pour chaque livre, pour les afficher indiviuellement.
 
 - [À propos](#à-propos)
 - [Prérequis](#prérequis)
