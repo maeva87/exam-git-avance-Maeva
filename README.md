@@ -12,7 +12,7 @@ Le site possède aussi une page pour chaque livre, pour les afficher indiviuelle
 
 ## Prérequis 
 
-Pour le bon fonctionnement du projet il faut un systeme d'exploitation de code, dans notre cas se sera VS code, ce qui nous permet de coder. Et un serveur local pour pouvoir accedez au sites.
+Pour le bon fonctionnement du projet il faut un systeme d'exploitation de code, dans notre cas se sera VS code, ce qui nous permet de coder. Et un serveur local pour pouvoir accedez au site.
 
 ### Lien vers la documentation
 
