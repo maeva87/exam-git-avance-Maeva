@@ -16,6 +16,7 @@ Pour le bon fonctionnement du projet il faut un systeme d'exploitation de code, 
 ### Lien vers la documentation
 
 https://code.visualstudio.com/docs
+
 https://developer.mozilla.org/fr/docs/Learn_web_development/Howto/Tools_and_setup/set_up_a_local_testing_server
 
 ## Construit avec 
@@ -27,5 +28,7 @@ Pour ce projet nous avons utiliser trois langages différentes, le Golang, ce qu
 ### Lien vers la documentation
 
 https://go.dev/doc/
+
 https://developer.mozilla.org/fr/docs/Web/HTML
+
 https://developer.mozilla.org/fr/docs/Web/CSS
