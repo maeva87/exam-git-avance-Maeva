@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 package data
 
 type Book struct {
@@ -11,6 +12,8 @@ type Book struct {
 =======
 =======
 >>>>>>> origin/templates/contact
+=======
+>>>>>>> origin/templates/home
 package data
 
 type Book struct {
@@ -20,6 +23,9 @@ type Book struct {
     Year   int
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> origin/templates/book
 =======
 >>>>>>> origin/templates/contact
+=======
+>>>>>>> origin/templates/home
